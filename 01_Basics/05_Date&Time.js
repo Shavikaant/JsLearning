@@ -1,2 +1,0 @@
-// Dates
-console.log("kapil")
